@@ -2,13 +2,12 @@ import java.io.*;
 class superman
 {
     public static void main (String[]args){
-        int a,b,c,d;
-        a=500;
-        b=30;
-        c=a/b+b;
-        d=a*b-a;
-         System.out.ptintln("The divided Value is "+c);
-        System.out.ptintln("The Multiple Value is "+d);
-        
+        int rollno=5,m1=67,m2=88,m3=98,m4=88,total;
+       String name="batman";
+        total=m1+m2+m3+m4;
+        System.out.println("\nStudent Details");
+        System.out.println("Rollno    "+rollno);
+        System.out.println("Name      "+name);
+        Syetem.out.println("Total     "+total);
     } 
 }
