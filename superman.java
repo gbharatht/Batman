@@ -1,5 +1,5 @@
 import java.io.*;
-class bat
+class superman
 {
     public static void main (String[]args){
         int a,b,c,d;
@@ -9,5 +9,6 @@ class bat
         d=a*b-a;
          System.out.ptintln("The divided Value is "+c);
         System.out.ptintln("The Multiple Value is "+d);
+        
     } 
 }
