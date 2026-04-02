@@ -5,7 +5,7 @@ class bat
         int a,b,c;
         a=10;
         b=200;
-        c=a*b;
-        System.out.ptintln("The Total Value is "+c);
+        c=a/b;
+         System.out.ptintln("The Total Value is "+c);
     } 
 }
